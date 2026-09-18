@@ -1,4 +1,5 @@
-<svg width="1200" height="250" viewBox="0 0 1200 250" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
     <linearGradient id="bg" x1="0%" y1="100%" x2="0%" y2="0%">
       <stop offset="0%" stop-color="#00ff88"></stop>
@@ -6,5 +7,14 @@
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="250" fill="url(#bg)"></rect>
+  <rect width="1200" height="300" fill="url(#bg)"></rect>
+
+  <text x="600" y="135" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="48" font-weight="bold">
+    💫 About Me
+  </text>
+
+  <text x="600" y="190" text-anchor="middle" fill="#ffffff" font-family="Arial, sans-serif" font-size="24">
+    Hey, I'm Aldian 👋
+  </text>
+
 </svg>
