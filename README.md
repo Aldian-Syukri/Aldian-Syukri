@@ -1,8 +1,5 @@
 <div align="center">
   <img src="./download.svg" width="100%" alt="About Me">
-
-  <h1>💫 About Me</h1>
-  <p>Hey, I'm Aldian 👋</p>
 </div>
 
 💻 **Informatics Management student**  
