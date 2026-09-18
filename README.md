@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/about-me-header.svg" width="100%" alt="About Me">
+  <img src="./download.svg" width="100%" alt="About Me">
 
   <h1>💫 About Me</h1>
   <p>Hey, I'm Aldian 👋</p>
