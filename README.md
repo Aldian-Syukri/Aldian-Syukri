@@ -86,26 +86,6 @@ SPACEAL is built to make learning about space feel more immersive, interactive, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Aldian-Syukri&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Aldian-Syukri&theme=react&hide_border=false" alt="GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Aldian-Syukri&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aldian-Syukri&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
 ## ✍️ A Quote From Me
 
 <br>
