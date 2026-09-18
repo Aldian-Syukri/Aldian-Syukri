@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background:linear-gradient(0deg,#00ff88,#000); padding:40px; border-radius:16px;">
   <h1>💫 About Me</h1>
   <p>Hey, I'm Aldian 👋</p>
 </div>
