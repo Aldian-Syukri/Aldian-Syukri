@@ -1,4 +1,6 @@
-<div align="center" style="background:linear-gradient(0deg,#00ff88,#000); padding:40px; border-radius:16px;">
+<div align="center">
+  <img src="./assets/about-me-header.svg" width="100%" alt="About Me">
+
   <h1>💫 About Me</h1>
   <p>Hey, I'm Aldian 👋</p>
 </div>
