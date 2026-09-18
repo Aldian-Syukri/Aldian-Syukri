@@ -1,5 +1,6 @@
-<div align="center">
+<div align="center">    
   <img src="./download.svg" width="100%" alt="About Me">
+  <hr>
 </div>
 
 💻 **Informatics Management student**  
