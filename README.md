@@ -1,5 +1,5 @@
 <div align="center">    
-  <img src="./assets/JS7mj.gif" width="100%" alt="About Me">
+  <img src="./assets/JS7mj.gif" width="67%" alt="About Me">
   <hr>
 </div>
 
