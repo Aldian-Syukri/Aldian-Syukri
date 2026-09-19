@@ -1,6 +1,5 @@
 <div align="center">    
-  <img src="./assets/JS7mj.gif" width="67%" alt="About Me">
-  <hr>
+<img src="./assets/xJ4fC.gif" width="280" alt="Aldian Syukri"/>  <hr>
 </div>
 
 💻 **Informatics Management student**  
