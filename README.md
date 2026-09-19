@@ -1,5 +1,5 @@
 <div align="center">    
-  <img src="./download.svg" width="100%" alt="About Me">
+  <img src="./assets/JS7mj.gif" width="100%" alt="About Me">
   <hr>
 </div>
 
